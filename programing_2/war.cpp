@@ -190,7 +190,7 @@ int main()
         {
             if (d.isEmpty() == true)
             {
-                cerr << "Exception -  " << str << endl;
+                cout << "Exception -  " << str << endl;
                 break;
             }
         }
