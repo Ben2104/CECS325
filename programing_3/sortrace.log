@@ -1,0 +1,16 @@
+Generating 1000000 random numbers
+argv[0]: ./generate
+argv[1]: 1000000
+argv[2]: -100000
+argv[3]: 100000
+Starting system sort
+
+real	0m1.319s
+user	0m1.192s
+sys	0m0.043s
+Starting mysort
+
+real	43m37.847s
+user	43m14.046s
+sys	0m5.672s
+ 1000000 1000000 6389642 sort.out
